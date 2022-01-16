@@ -9,6 +9,6 @@ public class SampleTest {
 	}
 	@Test
 	public void deleteTwiter() {
-	System.out.println("Delete");	
+	System.out.println("Not Delete");	
 	}
 }
